@@ -2,6 +2,9 @@
 
 - 🔭 Atualmente trabalho como Quality Assurance
 - 🌱 Estudando Engenharia de Software
+- 🙇‍♂️ Uma pessoa de mente aberta disposta a aprender e ajudar
+- 🖤 Apaixonado por tecnologia, esportes, séries/filmes, livros e viajar
+  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
