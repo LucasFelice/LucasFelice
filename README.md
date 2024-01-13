@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas de Felice 🙋‍♂️
 
-- 🔭 Atualmente trabalho como Quality Analyst
+- 🔭 Atualmente trabalho como Quality Assurance
 - 🌱 Estudando Engenharia de Software
 
 <div style="display: inline_block"><br>
